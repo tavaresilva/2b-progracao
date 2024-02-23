@@ -1,3 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
 header {
     background-color: rgb(38, 42, 46);
     color: white;
@@ -14,3 +19,4 @@ header {
     margin:0 16px;
     font-size: 24px;
 }
+
