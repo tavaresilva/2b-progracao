@@ -1,12 +1,11 @@
 *{
     padding: 0;
     margin: 0;
-    background-color: rgb(45, 115, 189);
-    justify-content: space-around;
+    
 }
 
 header {
-    background-color: rgb(36, 55, 75);
+    background-color: rgb(19, 83, 78);
     color: white;
     display:flex;
     justify-content: space-around;
