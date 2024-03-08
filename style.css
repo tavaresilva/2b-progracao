@@ -24,6 +24,17 @@ header {
     width:  25%;
 }
 .escola{
-     background-image: linear-gradient(red,blue);
+     background-image: linear-gradient(rgb(11, 19, 92),rgb(17, 85, 40));
      color: white;
+     display:flex;
+     justify-content: center;
+     align-items:center;
+     padding: 24px 0;
+}
+.escola-titulo{
+    padding:24px 0;
+
+}
+.conteudo{
+    width:25%;
 }
