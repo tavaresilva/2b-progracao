@@ -23,6 +23,7 @@ header {
 .escola-imagem{
     width:  25%;
 }
-    .escola{
-    background-image: linear-gradient(red,blue)
+.escola{
+     background-image: linear-gradient(red,blue);
+     color: white;
 }
